@@ -274,13 +274,6 @@ acesse a raiz da pasta do projeto e digite:
 go run main.go
 ```
 
-O que ainda está sendo implementado?
-
-* Banco de dados hospedado na AWS-RDS
-* API hospedada na AWS-EC2
-* Frontend em ReactJS. https://hygya-interface.vercel.app/login
-* Repositório do Frontend: https://github.com/pionetto/hygya-interface
-
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
 
